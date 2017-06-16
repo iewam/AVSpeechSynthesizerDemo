@@ -13,6 +13,7 @@
 		D60722521EF370F3000306A1 /* AVSpeechSynthesizerDemo.xcdatamodeld in Sources */ = {isa = PBXBuildFile; fileRef = D60722501EF370F3000306A1 /* AVSpeechSynthesizerDemo.xcdatamodeld */; };
 		D60722541EF370F3000306A1 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = D60722531EF370F3000306A1 /* Assets.xcassets */; };
 		D60722571EF370F3000306A1 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = D60722551EF370F3000306A1 /* LaunchScreen.storyboard */; };
+		D6C237C71EF38C4900BA8CE4 /* synthesizer.gif in Resources */ = {isa = PBXBuildFile; fileRef = D6C237C61EF38C4900BA8CE4 /* synthesizer.gif */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -24,6 +25,7 @@
 		D60722531EF370F3000306A1 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		D60722561EF370F3000306A1 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		D60722581EF370F3000306A1 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		D6C237C61EF38C4900BA8CE4 /* synthesizer.gif */ = {isa = PBXFileReference; lastKnownFileType = image.gif; path = synthesizer.gif; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -56,6 +58,7 @@
 		D60722481EF370F3000306A1 /* AVSpeechSynthesizerDemo */ = {
 			isa = PBXGroup;
 			children = (
+				D6C237C61EF38C4900BA8CE4 /* synthesizer.gif */,
 				D60722491EF370F3000306A1 /* AppDelegate.swift */,
 				D607224B1EF370F3000306A1 /* ViewController.swift */,
 				D607224D1EF370F3000306A1 /* Main.storyboard */,
@@ -130,6 +133,7 @@
 				D60722571EF370F3000306A1 /* LaunchScreen.storyboard in Resources */,
 				D60722541EF370F3000306A1 /* Assets.xcassets in Resources */,
 				D607224F1EF370F3000306A1 /* Main.storyboard in Resources */,
+				D6C237C71EF38C4900BA8CE4 /* synthesizer.gif in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -310,6 +314,7 @@
 				D607225D1EF370F3000306A1 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 
